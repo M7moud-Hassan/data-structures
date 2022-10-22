@@ -88,7 +88,23 @@ namespace DataStructureImp
             // Console.WriteLine(singleLinkedList);
             #endregion
 
-
+            #region DoublyLinkedList
+            //DoublyLinkedList doublyLinkedList = new DoublyLinkedList(5);
+            //doublyLinkedList.insertLast(6);
+            //doublyLinkedList.insertLast(9);
+            //doublyLinkedList.insertLast(10);
+            //doublyLinkedList.insertLast(11);
+            //doublyLinkedList.insertFront(12);
+            //doublyLinkedList.insertFront(13);
+            //Console.WriteLine(doublyLinkedList.ToString());
+            //doublyLinkedList.insertAtIndex(2, 100);
+            //Console.WriteLine(doublyLinkedList.ToString());
+            //doublyLinkedList.deleteAtIndex(3);
+            //doublyLinkedList[5] = 29929;
+            //Console.WriteLine(doublyLinkedList.ToString());
+            //doublyLinkedList.sort();
+            //Console.WriteLine(doublyLinkedList.ToString());
+            #endregion
 
 
         }

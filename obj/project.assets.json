@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CS\\source\\repos\\data_structures_imp\\data_structures_imp.csproj",
+      "projectUniqueName": "D:\\projects-uploaded\\data_structures_imp\\data_structures_imp.csproj",
       "projectName": "data_structures_imp",
-      "projectPath": "C:\\Users\\CS\\source\\repos\\data_structures_imp\\data_structures_imp.csproj",
+      "projectPath": "D:\\projects-uploaded\\data_structures_imp\\data_structures_imp.csproj",
       "packagesPath": "C:\\Users\\CS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CS\\source\\repos\\data_structures_imp\\obj\\",
+      "outputPath": "D:\\projects-uploaded\\data_structures_imp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CS\\AppData\\Roaming\\NuGet\\NuGet.Config",
