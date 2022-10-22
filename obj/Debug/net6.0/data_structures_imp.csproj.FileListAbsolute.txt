@@ -1,0 +1,15 @@
+C:\Users\CS\source\repos\data_structures_imp\bin\Debug\net6.0\data_structures_imp.exe
+C:\Users\CS\source\repos\data_structures_imp\bin\Debug\net6.0\data_structures_imp.deps.json
+C:\Users\CS\source\repos\data_structures_imp\bin\Debug\net6.0\data_structures_imp.runtimeconfig.json
+C:\Users\CS\source\repos\data_structures_imp\bin\Debug\net6.0\data_structures_imp.dll
+C:\Users\CS\source\repos\data_structures_imp\bin\Debug\net6.0\data_structures_imp.pdb
+C:\Users\CS\source\repos\data_structures_imp\obj\Debug\net6.0\data_structures_imp.csproj.AssemblyReference.cache
+C:\Users\CS\source\repos\data_structures_imp\obj\Debug\net6.0\data_structures_imp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CS\source\repos\data_structures_imp\obj\Debug\net6.0\data_structures_imp.AssemblyInfoInputs.cache
+C:\Users\CS\source\repos\data_structures_imp\obj\Debug\net6.0\data_structures_imp.AssemblyInfo.cs
+C:\Users\CS\source\repos\data_structures_imp\obj\Debug\net6.0\data_structures_imp.csproj.CoreCompileInputs.cache
+C:\Users\CS\source\repos\data_structures_imp\obj\Debug\net6.0\data_structures_imp.dll
+C:\Users\CS\source\repos\data_structures_imp\obj\Debug\net6.0\refint\data_structures_imp.dll
+C:\Users\CS\source\repos\data_structures_imp\obj\Debug\net6.0\data_structures_imp.pdb
+C:\Users\CS\source\repos\data_structures_imp\obj\Debug\net6.0\data_structures_imp.genruntimeconfig.cache
+C:\Users\CS\source\repos\data_structures_imp\obj\Debug\net6.0\ref\data_structures_imp.dll
