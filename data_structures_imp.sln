@@ -7,6 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "data_structures_imp", "data
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8BFC7C91-BDF9-4E83-9EEC-D38CDFAEB2C3}"
 	ProjectSection(SolutionItems) = preProject
+		binary_search_tree.cs = binary_search_tree.cs
 		circular_queue.cs = circular_queue.cs
 		doubly_linkedlist.cs = doubly_linkedlist.cs
 		link_list.cs = link_list.cs
