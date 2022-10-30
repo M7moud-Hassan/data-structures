@@ -108,19 +108,22 @@ namespace DataStructureImp
 
 
             #region BinarySearchTree
-            //BinarySearchTree binarySearchTree = new BinarySearchTree(6);
-            //binarySearchTree.insert(4);
-            //binarySearchTree.insert(7);
-            //binarySearchTree.insert(3);
-            //binarySearchTree.insert(9);
-            //binarySearchTree.insert(10);
-            //binarySearchTree.insert(8);
-            //binarySearchTree.insert(16);
-            //binarySearchTree.insert(32);
-            //binarySearchTree.insert(0);
-            //binarySearchTree.insert(15);
-            //binarySearchTree.travelLDR();
-            //binarySearchTree.travelRDL();
+            BinarySearchTree binarySearchTree = new BinarySearchTree(44);
+            binarySearchTree.insert(17);
+            binarySearchTree.insert(28);
+            binarySearchTree.insert(29);
+            binarySearchTree.insert(88);
+            binarySearchTree.insert(65);
+            binarySearchTree.insert(97);
+            binarySearchTree.insert(54);
+            binarySearchTree.insert(82);
+            binarySearchTree.insert(76);
+            binarySearchTree.insert(80);
+            binarySearchTree.insert(78);
+            binarySearchTree.travelLDR();
+            binarySearchTree.Remove(44);
+            binarySearchTree.travelLDR();
+            // binarySearchTree.travelRDL();
             //Console.WriteLine(binarySearchTree.Contain(8));
             #endregion
 
